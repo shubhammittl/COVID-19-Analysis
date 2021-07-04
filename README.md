@@ -11,7 +11,7 @@ Coronavirus (COVID-19) Deaths [dataset](https://ourworldindata.org/covid-deaths)
 
 ### Deliverable:
 
-Tableau Dashboard with visualizations of the analyses. [Click here to see the dashboard.] (https://public.tableau.com/app/profile/shubham.mittal7022/viz/Covid-19Dashboard_16253796802380/Dashboard1)
+Tableau Dashboard with visualizations of the analyses. [Click here to see the dashboard](https://public.tableau.com/app/profile/shubham.mittal7022/viz/Covid-19Dashboard_16253796802380/Dashboard1).
 
 ### Methodology followed:
 
